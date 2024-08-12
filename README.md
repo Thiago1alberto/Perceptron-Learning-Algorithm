@@ -1,7 +1,3 @@
-# Conteúdo do README completo
-readme_content = """\
-# Projeto de Algoritmos e Modelos de Aprendizado de Máquina
-
 Este repositório contém a implementação de classes, algoritmos e ferramentas para a geração de dados, criação de modelos lineares, estratégias de otimização, e análise visual do aprendizado de algoritmos. O projeto está organizado em módulos bem estruturados, com foco na extensibilidade e no cumprimento de padrões de design utilizando Abstract Base Classes (ABC).
 
 ## Estrutura do Repositório
